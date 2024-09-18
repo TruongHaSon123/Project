@@ -1,3 +1,0 @@
-/home/son/test/build/CMakeFiles/hello_world.dir
-/home/son/test/build/CMakeFiles/edit_cache.dir
-/home/son/test/build/CMakeFiles/rebuild_cache.dir
